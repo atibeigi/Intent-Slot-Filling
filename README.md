@@ -15,7 +15,8 @@ Two distinct transformer-based model paradigms are implemented and compared:
 2. **Decoder-only Models:** Built using **GPT** family models via prompt engineering and generation strategies.
 
 ---
-
+> **Note:** Due to file size limits , only a small subset of the dataset has been included in this repository.
+---
 ## 📂 Repository Structure
 
 - `data/`: Contains dataset files (`en-US.jsonl` and `fa-IR.jsonl`).
